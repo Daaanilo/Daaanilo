@@ -1,5 +1,5 @@
 <!-- Header Banner with Animated Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Danilo%20Gisolfi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20•%20Mobile%20Enthusiast%20•%20Tech%20Explorer&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Danilo%20Gisolfi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20•%20Machine%20Learning%20•%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- Animated Typing Introduction -->
 <p align="center">
@@ -103,23 +103,17 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Daaanilo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daaanilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Daaanilo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/Daaanilo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---

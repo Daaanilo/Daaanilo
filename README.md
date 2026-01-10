@@ -4,7 +4,7 @@
 <!-- Animated Typing Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Passionate+about+crafting+elegant+solutions;Building+impactful+mobile+%26+web+experiences;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=BSc+Computer+Science+%7C+MSc+Data+Science+%26+ML;Constantly+learning%2C+creating%2C+and+striving+for+excellence;Building+impactful+mobile+%26+web+experiences+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,11 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=daaanilo&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -107,22 +103,22 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
 </h2>
 
 <p align="center">
-  <a href="https://github.com/daaanilo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daaanilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/Daaanilo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/daaanilo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+  <a href="https://github.com/Daaanilo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/daaanilo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/Daaanilo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
@@ -133,7 +129,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daaanilo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -166,13 +162,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
 </h2>
 
 <p align="center">
-  <em>I'm always open to interesting conversations and collaboration opportunities.</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/-Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <em>I'm always open to interesting conversations and collaboration opportunities.<br>Feel free to reach out via LinkedIn!</em>
 </p>
 
 ---

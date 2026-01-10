@@ -4,7 +4,7 @@
 <!-- Animated Typing Introduction -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=BSc+Computer+Science+%7C+MSc+Data+Science+%26+ML;Constantly+learning%2C+creating%2C+and+striving+for+excellence;Building+impactful+mobile+%26+web+experiences+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Transforming+ideas+into+intelligent+solutions;BSc+Computer+Science+%7C+MSc+Data+Science+%26+ML;Passionate+about+innovation+and+clean+code+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -107,24 +107,9 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-<!-- Trophy Section -->
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
@@ -152,11 +137,18 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
 <!-- Connect Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
-  Let's Connect!
+  Let's Build Something Amazing Together!
 </h2>
 
 <p align="center">
-  <em>I'm always open to interesting conversations and collaboration opportunities.<br>Feel free to reach out via LinkedIn!</em>
+  <strong>🔍 Looking for a driven developer who thrives on challenges?</strong><br>
+  <em>Check out my pinned repositories below or connect with me on LinkedIn!</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
+    <img src="https://img.shields.io/badge/-Let's_Talk!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---

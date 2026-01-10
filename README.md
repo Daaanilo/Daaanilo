@@ -1,29 +1,187 @@
-<h1 align="center">Hi 👋, I'm Danilo</h1>
-<h3 align="center">A passionate developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!-- Header Banner with Animated Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Danilo%20Gisolfi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20•%20Mobile%20Enthusiast%20•%20Tech%20Explorer&descSize=18&descAlignY=55&descAlign=50"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daaanilo&label=Profile%20views&color=0e75b6&style=flat" alt="daaanilo" /> </p>
-
-- 🔭 I’m currently working on **a university project**
-
-- 🌱 I’m currently learning **React, Vue**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **tba**
-
-- ⚡ Fun fact **Why did the programmer quit his job? He didn't get arrays!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danilo gisolfi" height="30" width="40" /></a>
+<!-- Animated Typing Introduction -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Passionate+about+crafting+elegant+solutions;Building+impactful+mobile+%26+web+experiences;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- Social Badges with Hover Effects -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=daaanilo&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daaanilo&show_icons=true&locale=en&layout=compact" alt="daaanilo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaanilo&show_icons=true&locale=en" alt="daaanilo" /></p>
+<!-- About Me Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daaanilo&" alt="daaanilo" /></p>
+<p align="center">
+  <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</p>
+
+<br>
+
+```yaml
+name: Danilo Gisolfi
+location: Italy 🇮🇹
+current_focus: University Projects & Personal Development
+
+interests:
+  - Mobile Development (Android, Flutter)
+  - Full-Stack Web Development
+  - Machine Learning & AI
+  - Game Development
+
+currently_learning:
+  - React & Vue.js Ecosystems
+  - Cloud Architecture
+  - Advanced System Design
+
+fun_fact: "Why did the programmer quit his job? He didn't get arrays! 😄"
+```
+
+<br clear="right"/>
+
+---
+
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24">
+  Tech Stack
+</h2>
+
+<p align="center">
+  <em>Languages & Frameworks I work with</em>
+</p>
+
+<!-- Languages -->
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,php,html,css&theme=dark&perline=8" alt="Languages"/>
+</p>
+
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,bootstrap&theme=dark&perline=4" alt="Frontend"/>
+</p>
+
+<!-- Mobile & Backend -->
+<h3 align="center">📱 Mobile & Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,firebase&theme=dark&perline=4" alt="Mobile & Backend"/>
+</p>
+
+<!-- Databases & Tools -->
+<h3 align="center">🗄️ Databases & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,selenium&theme=dark&perline=4" alt="Databases & Tools"/>
+</p>
+
+<!-- Creative & Other -->
+<h3 align="center">🎮 Creative & Other</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,git&theme=dark&perline=4" alt="Creative & Other"/>
+</p>
+
+---
+
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  GitHub Analytics
+</h2>
+
+<p align="center">
+  <a href="https://github.com/daaanilo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daaanilo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaanilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/daaanilo">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daaanilo&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/daaanilo">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=daaanilo&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
+</p>
+
+---
+
+<!-- Trophy Section -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daaanilo&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+<!-- Quote Section -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+  Let's Connect!
+</h2>
+
+<p align="center">
+  <em>I'm always open to interesting conversations and collaboration opportunities.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
+    <img src="https://img.shields.io/badge/-Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-f093fb?style=flat-square" alt="Made with Love"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Italy%20🇮🇹-667eea?style=flat-square" alt="Based in Italy"/>
+</p>

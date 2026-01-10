@@ -1,14 +1,9 @@
-<!-- Animated Header with Sparkles -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:A855F7,50:D946EF,75:EC4899,100:F43F5E&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20|%20Machine%20Learning%20|%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
-
-<!-- Animated Wave Hand + Typing -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20|%20Machine%20Learning%20|%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Transforming+ideas+into+intelligent+solutions;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+innovation+and+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Transforming+ideas+into+intelligent+solutions;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+innovation+and+clean+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <!-- Animated Line Divider -->
@@ -69,7 +64,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark&perline=7" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php&theme=dark&perline=6" alt="Languages"/>
   </a>
 </p>
 
@@ -80,7 +75,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,bootstrap,tailwind&theme=dark&perline=7" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,bootstrap&theme=dark&perline=6" alt="Frontend"/>
   </a>
 </p>
 
@@ -113,7 +108,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,docker,linux&theme=dark&perline=6" alt="Databases & Tools"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,linux&theme=dark&perline=5" alt="Databases & Tools"/>
   </a>
 </p>
 
@@ -140,8 +135,8 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daaanilo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=D946EF&text_color=c9d1d9&count_private=true&ring_color=D946EF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=c9d1d9&count_private=true&ring_color=4ECDC4" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Animated Line Divider -->
@@ -162,19 +157,19 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Talk!-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Talk"/>
+    <img src="https://img.shields.io/badge/Let's_Talk!-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Talk"/>
   </a>
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:A855F7,50:D946EF,75:EC4899,100:F43F5E&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC857,75:4ECDC4,100:45B7D1&height=150&section=footer"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Love-D946EF?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Made%20with-Love-FF6B6B?style=for-the-badge" alt="Made with Love"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Italy-A855F7?style=for-the-badge" alt="Based in Italy"/>
+  <img src="https://img.shields.io/badge/Based%20in-Italy-4ECDC4?style=for-the-badge" alt="Based in Italy"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=A855F7&height=10&section=header&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B6B&height=10&section=header&reversal=true"/>
 </p>

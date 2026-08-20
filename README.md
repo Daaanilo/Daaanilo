@@ -1,27 +1,27 @@
-<!-- 🌌 Liquid Glass & Aurora Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1B4B,50:4C1D95,75:831843,100:0F172A&height=230&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Full-Stack%20Development&descSize=18&descAlignY=55&descAlign=50"/>
+<!-- 💎 Corporate Tech & Liquid Slate Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:334155,100:0F172A&height=230&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Full-Stack%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+AI%2C+LLMs%2C+RAG+%26+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+AI%2C+LLMs%2C+RAG+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 🔮 Glassmorphic Social Badges & Profile Views -->
+<!-- 🛡️ Corporate Badges & Profile Views -->
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 </p>
 
-<!-- 🌊 Liquid Gradient Divider -->
+<!-- ⚡ Steel Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- 🍱 Bento Grid - About Me -->
+<!-- 🍱 About Me -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   <b>About Me</b>
@@ -46,12 +46,12 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 
 <br>
 
-<!-- 🌊 Liquid Gradient Divider -->
+<!-- ⚡ Steel Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- ⚡ Bento Tech Arsenal -->
+<!-- ⚡ Tech Arsenal -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
   <b>Tech Arsenal</b>
@@ -123,23 +123,23 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   </a>
 </p>
 
-<!-- 🌊 Liquid Gradient Divider -->
+<!-- ⚡ Steel Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- 📊 GitHub Analytics (Aurora Theme & Fixed Endpoint) -->
+<!-- 📊 GitHub Analytics (Corporate Tech Slate Theme) -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   <b>GitHub Analytics</b>
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F43F5E&text_color=c9d1d9&count_private=true&ring_color=38BDF8&hide_rank=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=c9d1d9&count_private=true&ring_color=38BDF8&hide_rank=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
-<!-- 🌊 Liquid Gradient Divider -->
+<!-- ⚡ Steel Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
@@ -158,19 +158,19 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="40" alt="Click Here"/><br>
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Talk!-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
+    <img src="https://img.shields.io/badge/Let's_Talk!-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
   </a>
 </p>
 
-<!-- 🌌 Liquid Glass Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1B4B,50:4C1D95,75:831843,100:0F172A&height=150&section=footer"/>
+<!-- 💎 Corporate Slate Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:334155,100:0F172A&height=150&section=footer"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Love-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Made%20with-Love-3B82F6?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Italy-A78BFA?style=for-the-badge&labelColor=0d1117" alt="Based in Italy"/>
+  <img src="https://img.shields.io/badge/Based%20in-Italy-60A5FA?style=for-the-badge&labelColor=0d1117" alt="Based in Italy"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8B5CF6&height=10&section=header&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=10&section=header&reversal=true"/>
 </p>

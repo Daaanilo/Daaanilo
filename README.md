@@ -100,15 +100,8 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20HuggingFace%20%7C%20Ollama-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="LLMs"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20LlamaIndex%20%7C%20VectorDBs-0052CC?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117" alt="RAG"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NLP-spaCy%20%7C%20Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="NLP"/>
-</p>
 
-<!-- DevOps, Containers & Databases -->
+<!-- Containers, DevOps & Databases -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="25">
   Containers, DevOps & Databases
@@ -117,9 +110,6 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,git,linux,bash&theme=dark&perline=7" alt="DevOps & Containers"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-Containers%20%26%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker"/>
 </p>
 
 <!-- Creative Tools -->

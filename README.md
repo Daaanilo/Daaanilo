@@ -1,9 +1,9 @@
 <!-- Animated Liquid Glass Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20AI%20%26%20Machine%20Learning%20|%20Intelligent%20Systems&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+Cutting-Edge+AI+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+AI%2C+LLMs%2C+RAG+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,12 +32,12 @@
 ```yaml
 name: Danilo Gisolfi
 location: Italy
-current_focus: Building Intelligent Systems & Next-Gen Software
+current_focus: Software Engineering, LLMs & Intelligent RAG Systems
 
 passions:
   - Software Engineering & Architecture
-  - Artificial Intelligence & Machine Learning
-  - Emerging Technologies & Innovation
+  - Machine Learning, AI & LLMs (RAG, NLP)
+  - Containerization & Cloud Native (Docker)
   - Mobile Development (Android, Flutter)
   - Full-Stack Web Development
 
@@ -51,7 +51,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- Tech Stack Section (Uses ONLY Skillicons) -->
+<!-- Tech Stack Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
   <b>Tech Arsenal</b>
@@ -90,15 +90,22 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   </a>
 </p>
 
-<!-- AI & Data Science -->
+<!-- AI, LLMs, RAG & Data Science -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
-  AI, LLMs & Data Science
+  AI, LLMs, NLP & RAG Systems
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark&perline=4" alt="AI & ML"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20HuggingFace%20%7C%20Ollama-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="LLMs"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20LlamaIndex%20%7C%20VectorDBs-0052CC?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117" alt="RAG"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NLP-spaCy%20%7C%20Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="NLP"/>
 </p>
 
 <!-- DevOps, Containers & Databases -->
@@ -110,6 +117,9 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,git,linux,bash&theme=dark&perline=7" alt="DevOps & Containers"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Containers%20%26%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker"/>
 </p>
 
 <!-- Creative Tools -->
@@ -128,22 +138,15 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- GitHub Analytics Section -->
+<!-- GitHub Analytics Section (Glassmorphism Styled & Fixed Endpoint) -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   <b>GitHub Analytics</b>
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=flat&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daaanilo&theme=dark&background=0D1117&border=30363D&stroke=3B82F6&ring=60A5FA&fire=3B82F6" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=glassmorphism&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=glassmorphism&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Animated Line Divider -->

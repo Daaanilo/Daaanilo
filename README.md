@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+Artificial+Intelligence+%26+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+Cutting-Edge+AI+%26+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,12 +32,12 @@
 ```yaml
 name: Danilo Gisolfi
 location: Italy
-current_focus: Building intelligent systems & modern software
+current_focus: Building Intelligent Systems & Next-Gen Software
 
 passions:
-  - Data Science & Analytics
   - Software Engineering & Architecture
-  - Machine Learning & Artificial Intelligence
+  - Artificial Intelligence & Machine Learning
+  - Emerging Technologies & Innovation
   - Mobile Development (Android, Flutter)
   - Full-Stack Web Development
 
@@ -51,7 +51,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- Tech Stack Section -->
+<!-- Tech Stack Section (Uses ONLY Skillicons) -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
   <b>Tech Arsenal</b>
@@ -90,18 +90,18 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   </a>
 </p>
 
-<!-- AI, LLMs & Data Science -->
+<!-- AI & Data Science -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
   AI, LLMs & Data Science
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,py&theme=dark&perline=4" alt="AI & ML"/>
   </a>
 </p>
 
-<!-- Containers, DevOps & Databases -->
+<!-- DevOps, Containers & Databases -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="25">
   Containers, DevOps & Databases
@@ -128,11 +128,15 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- GitHub Analytics Section (Reliable Streak & Graph Analytics) -->
+<!-- GitHub Analytics Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
   <b>GitHub Analytics</b>
 </h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=flat&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daaanilo&theme=dark&background=0D1117&border=30363D&stroke=3B82F6&ring=60A5FA&fire=3B82F6" alt="GitHub Streak Stats"/>

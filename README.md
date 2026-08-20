@@ -1,81 +1,88 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=230&section=header&text=Danilo%20Gisolfi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20AI%20%26%20LLMs&descSize=18&descAlignY=55&descAlign=50"/>
+<!-- Animated Liquid Glass Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Building+intelligent+systems+from+the+ground+up;BSc+Computer+Science+%7C+MSc+Data+Science+%26+ML;From+clean+code+to+production-ready+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Passionate+about+AI%2C+LLMs%2C+RAG+%26+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Glassmorphic Social & Profile Stats Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
----
-
+<!-- About Me Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  &nbsp;About Me
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <b>About Me</b>
 </h2>
 
 <br>
 
 ```yaml
 name: Danilo Gisolfi
-location: Italy 🇮🇹
-currently: Building intelligent systems & exploring LLM capabilities
+location: Italy
+current_focus: Building intelligent systems
 
 passions:
-  - Software Engineering & System Design
-  - Machine Learning, Deep Learning & AI
-  - LLMs, NLP & RAG Pipelines
+  - Data Science & Analytics
+  - Software Engineering & Architecture
+  - Machine Learning, AI & LLMs (RAG, NLP)
   - Mobile Development (Android, Flutter)
   - Full-Stack Web Development
-  - Game Development
 
-fun_fact: "A clean architecture is worth a thousand comments."
+fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 ```
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
----
-
+<!-- Tech Stack Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
-  &nbsp;Tech Arsenal
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  <b>Tech Arsenal</b>
 </h2>
 
+<!-- Languages -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="22">
-  &nbsp;Programming Languages
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25">
+  Programming Languages
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php&theme=dark&perline=6" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark&perline=7" alt="Languages"/>
   </a>
 </p>
 
+<!-- Web & Frontend -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="22">
-  &nbsp;Web & Frontend
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25">
+  Web & Frontend
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,bootstrap&theme=dark&perline=6" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,tailwind,bootstrap&theme=dark&perline=7" alt="Frontend"/>
   </a>
 </p>
 
+<!-- Mobile & Backend -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="22">
-  &nbsp;Mobile & Backend
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">
+  Mobile & Backend
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,40 +90,42 @@ fun_fact: "A clean architecture is worth a thousand comments."
   </a>
 </p>
 
+<!-- AI, LLMs, RAG & Data Science -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="22">
-  &nbsp;AI, ML & LLMs
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
+  AI, LLMs, NLP & RAG Systems
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark&perline=6" alt="AI"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20HuggingFace%20%7C%20Ollama-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" alt="LLMs"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/RAG_Pipelines-4F46E5?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20LlamaIndex%20%7C%20VectorDBs-0052CC?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=0d1117" alt="RAG"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/NLP-spaCy%20%7C%20Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="NLP"/>
 </p>
 
+<!-- DevOps, Containers & Databases -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="22">
-  &nbsp;Databases, DevOps & Containers
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="25">
+  Containers, DevOps & Databases
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,linux,docker&theme=dark&perline=6" alt="Databases & Tools"/>
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,git,linux,bash&theme=dark&perline=7" alt="DevOps & Containers"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-Containers%20%26%20Deployment-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker"/>
+</p>
 
+<!-- Creative Tools -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="22">
-  &nbsp;Creative Suite
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25">
+  Creative Suite
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -124,50 +133,53 @@ fun_fact: "A clean architecture is worth a thousand comments."
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
----
-
+<!-- GitHub Analytics Section (Glassmorphism Styled & Fixed Endpoint) -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  &nbsp;GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <b>GitHub Analytics</b>
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&count_private=true&ring_color=5B21B6" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=glassmorphism&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=glassmorphism&langs_count=8" alt="Top Languages"/>
 </p>
 
+<!-- Animated Line Divider -->
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Daaanilo&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
+<!-- Connect Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">
-  &nbsp;Let's Build Something Amazing Together!
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  <b>Let's Build Something Amazing Together!</b>
 </h2>
 
 <p align="center">
-  <b>Looking for a driven developer who thrives on challenges?</b><br>
-  <em>Explore my pinned projects below or reach out!</em>
+  <b>Looking for a driven software engineer who thrives on AI & complex challenges?</b><br>
+  <em>Explore my pinned projects below or let's connect!</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"/>
+    <img src="https://img.shields.io/badge/Let's_Talk!-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
   </a>
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=150&section=footer"/>
+<!-- Liquid Glass Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=150&section=footer"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Python-7C3AED?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Made%20with-Love-3B82F6?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Italy%20🇮🇹-5B21B6?style=for-the-badge" alt="Based in Italy"/>
+  <img src="https://img.shields.io/badge/Based%20in-Italy-60A5FA?style=for-the-badge&labelColor=0d1117" alt="Based in Italy"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=10&section=header&reversal=true"/>
 </p>

@@ -128,18 +128,15 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- GitHub Analytics & Achievements Section -->
+<!-- GitHub Analytics Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <b>GitHub Activity & Achievements</b>
+  <b>GitHub Analytics</b>
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=onedark&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=c9d1d9&count_private=true&ring_color=4ECDC4" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <!-- Animated Line Divider -->

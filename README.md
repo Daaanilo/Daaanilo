@@ -135,7 +135,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=c9d1d9&count_private=true&ring_color=4ECDC4" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFC857&text_color=c9d1d9&count_private=true&ring_color=4ECDC4&hide_rank=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 

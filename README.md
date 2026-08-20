@@ -1,5 +1,5 @@
 <!-- Animated Liquid Glass Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Software%20Development&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F2937,60:374151,85:1E3A8A,100:0F172A&height=220&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Full-Stack%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -37,7 +37,7 @@ current_focus: Software Engineering, LLMs & Intelligent RAG Systems
 passions:
   - Software Engineering & Architecture
   - Machine Learning, AI & LLMs (RAG, NLP)
-  - Containerization & Cloud Native (Docker)
+  - Data Science & Analytics
   - Mobile Development (Android, Flutter)
   - Full-Stack Web Development
 
@@ -64,7 +64,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark&perline=7" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark&perline=7" alt="Languages"/>
   </a>
 </p>
 
@@ -97,7 +97,7 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots&theme=dark&perline=5" alt="AI & ML"/>
   </a>
 </p>
 
@@ -128,15 +128,18 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- GitHub Analytics Section (Glassmorphism Styled & Fixed Endpoint) -->
+<!-- GitHub Analytics & Achievements Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <b>GitHub Analytics</b>
+  <b>GitHub Activity & Achievements</b>
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daaanilo&show_icons=true&theme=glassmorphism&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=glassmorphism&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Daaanilo&theme=onedark&row=1&column=6&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaanilo&theme=react-dark&bg_color=0D1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <!-- Animated Line Divider -->

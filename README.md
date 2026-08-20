@@ -1,181 +1,176 @@
-<div align="center">
+<!-- Corporate Tech & Liquid Slate Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:334155,100:0F172A&height=230&section=header&text=Danilo%20Gisolfi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20|%20Machine%20Learning%20|%20Full-Stack%20Development&descSize=18&descAlignY=55&descAlign=50"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,25:0F172A,50:1E1B4B,75:1E293B,100:05070A&height=280&section=header&text=DANILO%20GISOLFI&fontSize=62&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%E2%80%94%20building%20with%20LLMs,%20RAG%20%26%20full-stack%20systems&descSize=16&descAlign=50&descAlignY=58&animation=fadeIn" alt="Danilo Gisolfi — hero banner"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Architecting+Modern+Software+%26+Intelligent+Systems;BSc+Computer+Science+|+MSc+Data+Science+%26+ML;Driven+by+Innovation%2C+Clean+Code+%26+Systems+Design" alt="Typing SVG" />
+  </a>
+</p>
 
-<sub><code>LOCATION · ITALY</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>TIMEZONE · UTC+1</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>STATUS · BUILDING</code></sub>
+<!-- Corporate Badges & Profile Views -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+</p>
 
-<br><br>
+<!-- Steel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-<a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=3B82F6&style=for-the-badge&labelColor=05070A&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Daaanilo"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=1E293B&style=for-the-badge&labelColor=05070A&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=Daaanilo&style=for-the-badge&color=0D1117&label=VIEWS&labelColor=05070A" alt="Profile views"/>
-
-</div>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
-
-<br>
-
-<sub><code>INDEX · 01</code></sub>
-
-## Identity
-
-I work in the space between backend engineering and machine learning — building systems that don't just serve data, but reason over it. Retrieval pipelines, model interfaces, product surfaces that hold up under real use.
-
-`BSc Computer Science` → `MSc Data Science & Machine Learning`, and the throughline between them has always been the same question: *how do you make software understand context, not just process input.*
-
-<details>
-<summary><code>▍ debug.log</code></summary>
-<br>
-<code>[INFO] Why did the programmer quit his job? He didn't get arrays.</code>
-</details>
+<!-- About Me -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <b>About Me</b>
+</h2>
 
 <br>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
+```yaml
+name: Danilo Gisolfi
+location: Italy
+current_focus: Software Engineering, LLMs & Intelligent RAG Systems
+
+passions:
+  - Software Engineering & Architecture
+  - Machine Learning, AI & LLMs (RAG, NLP)
+  - Data Science & Analytics
+  - Mobile Development (Android, Flutter)
+  - Full-Stack Web Development
+
+fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
+```
 
 <br>
 
-<sub><code>INDEX · 02</code></sub>
+<!-- Steel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## Currently Focused On
+<!-- Tech Arsenal -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  <b>Tech Arsenal</b>
+</h2>
 
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-<h3>◈ LLMs & Intelligent RAG Systems</h3>
-<p>Deep in retrieval-augmented architectures right now — connecting language models to real, grounded, retrievable knowledge instead of letting them guess. This sits at the center of most of what I build today.</p>
-<sub><code>NLP</code> &nbsp;<code>RAG</code> &nbsp;<code>LLM ORCHESTRATION</code></sub>
-</td>
-</tr>
-</table>
+<!-- Languages -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25">
+  Programming Languages
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark&perline=7" alt="Languages"/>
+  </a>
+</p>
 
-<br>
+<!-- Web & Frontend -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25">
+  Web & Frontend
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,tailwind,bootstrap&theme=dark&perline=7" alt="Frontend"/>
+  </a>
+</p>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
+<!-- Mobile & Backend -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25">
+  Mobile & Backend
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,firebase,express&theme=dark&perline=5" alt="Mobile & Backend"/>
+  </a>
+</p>
 
-<br>
+<!-- AI, LLMs, RAG & Data Science -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25">
+  AI, LLMs, NLP & RAG Systems
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=5" alt="AI & ML"/>
+  </a>
+</p>
 
-<sub><code>INDEX · 03</code></sub>
+<!-- Containers, DevOps & Databases -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="25">
+  Containers, DevOps & Databases
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,git,linux,bash&theme=dark&perline=7" alt="DevOps & Containers"/>
+  </a>
+</p>
 
-## Stack
+<!-- Creative Tools -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25">
+  Creative Suite
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,figma&theme=dark&perline=4" alt="Creative"/>
+  </a>
+</p>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<!-- Steel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php&theme=dark&perline=4" alt="Languages"/>
+<!-- GitHub Analytics (Corporate Tech Slate Theme) -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <b>GitHub Analytics</b>
+</h2>
 
-</td>
-<td width="33%" valign="top">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=c9d1d9&count_private=true&ring_color=38BDF8&hide_rank=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,html,css,tailwind,bootstrap&theme=dark&perline=4" alt="Frontend"/>
+<!-- Steel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-</td>
-<td width="33%" valign="top">
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  <b>Let's Build Something Amazing Together!</b>
+</h2>
 
-**Mobile & Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,nodejs,firebase,express&theme=dark&perline=4" alt="Mobile & Backend"/>
+<p align="center">
+  <b>Looking for a driven software engineer who thrives on AI & complex challenges?</b><br>
+  <em>Explore my pinned projects below or let's connect!</em>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="40" alt="Click Here"/><br>
+  <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_Talk!-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
+  </a>
+</p>
 
-**AI / ML**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,bots,py&theme=dark&perline=4" alt="AI & ML"/>
+<!-- Corporate Slate Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:334155,100:0F172A&height=150&section=footer"/>
 
-</td>
-<td width="33%" valign="top">
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Love-3B82F6?style=for-the-badge&labelColor=0d1117" alt="Made with Love"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Italy-60A5FA?style=for-the-badge&labelColor=0d1117" alt="Based in Italy"/>
+</p>
 
-**Infrastructure & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postgres,git,linux,bash&theme=dark&perline=4" alt="Infrastructure & Data"/>
-
-</td>
-<td width="33%" valign="top">
-
-**Creative Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=unity,blender,photoshop,figma&theme=dark&perline=4" alt="Creative Tools"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
-
-<br>
-
-<sub><code>INDEX · 04</code></sub>
-
-## Work
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-<h3>◇ [ FEATURED PROJECT ]</h3>
-<p><em>This slot is reserved for your strongest pinned repository — name, one-line description, primary stack, and link go here.</em></p>
-<sub><code>STATUS · AWAITING PIN</code></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>◇ [ PROJECT NAME ]</h3>
-<p><em>Add a short repository description here.</em></p>
-<sub><code>STATUS · AWAITING PIN</code></sub>
-</td>
-<td width="50%" valign="top">
-<h3>◇ [ PROJECT NAME ]</h3>
-<p><em>Add a short repository description here.</em></p>
-<sub><code>STATUS · AWAITING PIN</code></sub>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub><a href="https://github.com/Daaanilo?tab=repositories">→ view all repositories</a></sub>
-</div>
-
-<br>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
-
-<br>
-
-<sub><code>INDEX · 05</code></sub>
-
-## Activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-phi.vercel.app/api?username=Daaanilo&show_icons=true&hide_border=true&bg_color=05070A&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B&hide_rank=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Daaanilo&layout=compact&hide_border=true&bg_color=05070A&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&langs_count=8" alt="Top languages"/>
-</div>
-
-<br>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,50:38BDF8,100:05070A&height=3&section=header"/>
-
-<br>
-
-<sub><code>INDEX · 06</code></sub>
-
-<div align="center">
-
-## Let's build something worth shipping.
-
-<a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7"><img src="https://img.shields.io/static/v1?label=&message=GET%20IN%20TOUCH&color=8B5CF6&style=for-the-badge&labelColor=05070A&logo=linkedin&logoColor=white" alt="Get in touch"/></a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:05070A,25:0F172A,50:1E1B4B,75:1E293B,100:05070A&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=10&section=header&reversal=true"/>
+</p>

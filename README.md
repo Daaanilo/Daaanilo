@@ -156,8 +156,9 @@ fun_fact: "Why did the programmer quit his job? He didn't get arrays!"
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="40" alt="Click Here"/><br>
   <a href="https://www.linkedin.com/in/danilo-gisolfi-057a642b7" target="_blank">
-    <img src="https://img.shields.io/badge/Let's_Talk!-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
+    <img src="https://img.shields.io/badge/%F0%9F%91%89_CLICK_HERE_TO_CONNECT_ON_LINKEDIN-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Let's Talk"/>
   </a>
 </p>
 
